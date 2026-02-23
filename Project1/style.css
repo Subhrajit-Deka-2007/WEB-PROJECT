@@ -1,0 +1,47 @@
+#tip{
+    
+    border:3px solid black;
+    width:25rem;
+    height:20rem;
+    margin:auto;
+    margin-top:5rem;
+}
+#amount{
+    text-align:center;
+}
+#percentage{
+    text-align:center;
+}
+h3{
+    text-align:center;
+}
+p{
+    padding-left:2rem;
+    padding-right:2rem;
+    font-size:small;
+}
+#btn{
+    width:20rem;
+    margin-left:2rem;
+    margin-right:2rem;
+    background-color:aqua;
+}
+#amt{
+    margin-top:2rem;
+    margin-bottom:2rem;
+    padding-left:2rem;
+}
+#perct{
+    margin-top:2rem;
+    margin-bottom:2rem;
+    padding-left:2rem;
+}
+#total{
+    color:red;
+}
+#amount{
+    width:20rem;
+}
+#percentage{
+    width:20rem;
+}
